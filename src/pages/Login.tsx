@@ -1,7 +1,7 @@
 function Home() {
   return <div>
-    <h1>Home Page</h1>
-    <p>Hello Hello</p>
+    <h1>Login Page</h1>
+    <p>Please login here...</p>
   </div>;
 }
 
